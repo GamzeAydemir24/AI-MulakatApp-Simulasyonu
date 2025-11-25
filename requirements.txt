@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+pypdf
+plotly
+fpdf
+audio-recorder-streamlit
+gTTS
+SpeechRecognition
+
+
+
+
